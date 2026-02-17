@@ -59,10 +59,10 @@ The objective was to:
 ## Application Preview
 
 ### Home Page
-[Home Page](assets/home.png)
+Home Page(assets/home.png)
 
 ### Prediction Page
-[Prediction Page](assets/result.png)
+Prediction Page(assets/result.png)
 
 
 ## Project Structure
