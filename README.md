@@ -85,10 +85,17 @@ Paws-and-Pixels-Cat-vs-Dog-Image-Classifier-Streamlit-SVM/
 │   ├── svm_cat_dog_model.pkl  # Trained SVM model
 │   └── feature_scaler.pkl     # Feature scaler
 │
-├── assets/
-│   └── cat_dog.jpg            # UI image assets
+├── assets/                    # UI image assets and output screenshots
+│   ├── cat_dog.jpg
+│   ├── home.png              
+│   └── result.png            
 │
-└── svm_cat_dog.ipynb          # Model development notebook
+├── data/                      # Data folder
+│   └── README.md              # Info about dataset
+│
+└── notebooks/                 # Jupyter notebooks
+    └── svm_cat_dog.ipynb      # Model development notebook
+
 ```
 
 ---
