@@ -1,5 +1,11 @@
 # Paws-and-Pixels-Cat-vs-Dog-Image-Classifier-Streamlit-SVM
+
+🚀 **Live Demo:** https://paws-and-pixels-cat-vs-dog-image-classifier-app-svm-m8n2qyszri.streamlit.app/
+
 An SVM-based Cat vs Dog image classification web application leveraging HOG feature extraction, built with Streamlit for interactive predictions and real-time image processing.
+
+
+
 
 ## Overview
 
