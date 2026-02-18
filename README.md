@@ -17,7 +17,7 @@ The objective was to:
 - Understand feature extraction using HOG
 - Train and evaluate an SVM classifier
 - Serialize the trained model
-- Deploy the solution as a user-facing web application
+- Deploy the model via a Streamlit web application
 
 ---
 
@@ -66,16 +66,17 @@ https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-datase
 ## Application Preview
 
 ### Home Page
-Home Page(assets/home.png)
+![Home Page](assets/home.png)
 
 ### Prediction Page
-Prediction Page(assets/result.png)
+![Prediction Page](assets/result.png)
+
 
 
 ## Project Structure
 
 ```bash
-Dogs_vs_Cats_SVM/
+Paws-and-Pixels-Cat-vs-Dog-Image-Classifier-Streamlit-SVM/
 │
 ├── app.py                     # Streamlit web application
 ├── requirements.txt           # Project dependencies
@@ -96,7 +97,7 @@ Dogs_vs_Cats_SVM/
 
 - Implemented classical ML approach instead of deep learning
 - Applied HOG for robust feature extraction
-- Built complete ML workflow from scratch
+- Designed and implemented a complete end-to-end machine learning pipeline.
 - Integrated model into deployable web interface
 - Designed clean, responsive UI using Streamlit
 
@@ -105,10 +106,11 @@ Dogs_vs_Cats_SVM/
 ## How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/paws-and-pixels-svm-cat-dog-classifier.git
-cd paws-and-pixels-svm-cat-dog-classifier
+git clone https://github.com/Muthumari10/Paws-and-Pixels-Cat-vs-Dog-Image-Classifier-Streamlit-SVM.git
+cd Paws-and-Pixels-Cat-vs-Dog-Image-Classifier-Streamlit-SVM
 pip install -r requirements.txt
 streamlit run app.py
+
 ```
 
 ---
