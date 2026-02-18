@@ -56,6 +56,13 @@ The objective was to:
 - Joblib
 
 ---
+## Dataset
+
+The dataset used for training is not included in this repository due to size constraints.
+
+You can access the dataset here:
+https://www.kaggle.com/datasets/bhavikjikadara/dog-and-cat-classification-dataset
+
 ## Application Preview
 
 ### Home Page
